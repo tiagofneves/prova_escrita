@@ -1,0 +1,35 @@
+
+{
+"uc": [
+    {
+      "nome": "Programação Web",
+      "docentes": [
+        {
+          "nome": "João Silva",
+          "email": "joao.silva@ipvc.pt",
+          "numero": "52344"
+        },
+        {
+          "nome": "Maria Oliveira",
+          "email": "maria.oliveira@ipvc.pt",
+          "numero": "24522"
+        }
+      ]
+    },
+    {
+      "nome": "Base de Dados",
+      "docentes": [
+        {
+          "nome": "Pedro Costa",
+          "email": "pedro.costa@ipvc.pt",
+          "numero": "22400"
+        },
+        {
+          "nome": "Ana Santos",
+          "email": "ana.santos@ipvc.pt",
+          "numero": "942424"
+        }
+      ]
+    }
+  ]
+}
